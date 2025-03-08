@@ -1,0 +1,1 @@
+DATABASE_URL="postgresql://mav_backend_assessment_js_owner:npg_TOPR5af8Letu@ep-dark-hat-a8f7u80n-pooler.eastus2.azure.neon.tech/mav_backend_assessment_js?sslmode=require"
